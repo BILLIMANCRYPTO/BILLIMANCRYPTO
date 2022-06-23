@@ -1,4 +1,4 @@
-### Hi there I'm Artem 👋
+### Hi there I'm Alex 👋
 
 ### I am a novice front-end developer, Crypto-enthusiast and Ambassador for start-up crypto-projects
 - ⚡ I like write code
